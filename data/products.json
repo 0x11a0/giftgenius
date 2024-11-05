@@ -1,0 +1,138 @@
+[
+    {
+        "name": "Floral Dress",
+        "category": "Women's Fashion",
+        "price": 45,
+        "base_satisfaction": 80,
+        "tags": ["Fashion", "Dress", "Floral", "Casual"],
+        "synergy_items": ["Heeled Sandals", "Handbag"]
+    },
+    {
+        "name": "Heeled Sandals",
+        "category": "Women's Fashion",
+        "price": 35,
+        "base_satisfaction": 70,
+        "tags": ["Fashion", "Footwear", "Elegant"],
+        "synergy_items": ["Floral Dress", "Handbag"]
+    },
+    {
+        "name": "Building Blocks Set",
+        "category": "Toys and Games",
+        "price": 25,
+        "base_satisfaction": 65,
+        "tags": ["Educational", "Kids", "Building"],
+        "synergy_items": ["Toy Car Set"]
+    },
+    {
+        "name": "Toy Car Set",
+        "category": "Toys and Games",
+        "price": 20,
+        "base_satisfaction": 55,
+        "tags": ["Toys", "Cars", "Kids"],
+        "synergy_items": ["Building Blocks Set"]
+    },
+    {
+        "name": "Cordless Drill",
+        "category": "Home Improvement",
+        "price": 60,
+        "base_satisfaction": 85,
+        "tags": ["Tools", "Power Drill", "Cordless"],
+        "synergy_items": ["Screwdriver Set", "Toolbox"]
+    },
+    {
+        "name": "Screwdriver Set",
+        "category": "Home Improvement",
+        "price": 15,
+        "base_satisfaction": 50,
+        "tags": ["Tools", "Screwdriver", "Set"],
+        "synergy_items": ["Cordless Drill", "Toolbox"]
+    },
+    {
+        "name": "Diamond Necklace",
+        "category": "Jewelry",
+        "price": 150,
+        "base_satisfaction": 95,
+        "tags": ["Jewelry", "Diamond", "Necklace", "Elegant"],
+        "synergy_items": ["Diamond Earrings", "Gift Box"]
+    },
+    {
+        "name": "Diamond Earrings",
+        "category": "Jewelry",
+        "price": 100,
+        "base_satisfaction": 90,
+        "tags": ["Jewelry", "Diamond", "Earrings", "Elegant"],
+        "synergy_items": ["Diamond Necklace", "Gift Box"]
+    },
+    {
+        "name": "Luxury Watch",
+        "category": "Watches",
+        "price": 200,
+        "base_satisfaction": 100,
+        "tags": ["Watch", "Luxury", "Elegant"],
+        "synergy_items": ["Diamond Bracelet"]
+    },
+    {
+        "name": "Pet Bed",
+        "category": "Pet Supplies",
+        "price": 30,
+        "base_satisfaction": 70,
+        "tags": ["Pet", "Bed", "Comfort"],
+        "synergy_items": ["Pet Blanket", "Pet Toys"]
+    },
+    {
+        "name": "Shampoo and Conditioner Set",
+        "category": "Hair Care",
+        "price": 25,
+        "base_satisfaction": 60,
+        "tags": ["Hair", "Shampoo", "Conditioner"],
+        "synergy_items": ["Hair Brush", "Hair Dryer"]
+    },
+    {
+        "name": "Wireless Earbuds",
+        "category": "Electronics",
+        "price": 50,
+        "base_satisfaction": 80,
+        "tags": ["Tech", "Earbuds", "Wireless"],
+        "synergy_items": ["Phone Charger", "Portable Charger"]
+    },
+    {
+        "name": "Baby Stroller",
+        "category": "Babies Product",
+        "price": 120,
+        "base_satisfaction": 85,
+        "tags": ["Baby", "Stroller", "Comfort"],
+        "synergy_items": ["Baby Blanket", "Diaper Bag"]
+    },
+    {
+        "name": "Sports Watch",
+        "category": "Sports",
+        "price": 55,
+        "base_satisfaction": 75,
+        "tags": ["Sports", "Watch", "Outdoor"],
+        "synergy_items": ["Water Bottle", "Fitness Tracker"]
+    },
+    {
+        "name": "Sofa Set",
+        "category": "Furniture",
+        "price": 300,
+        "base_satisfaction": 90,
+        "tags": ["Furniture", "Living Room", "Comfort"],
+        "synergy_items": ["Coffee Table", "Throw Pillows"]
+    },
+    {
+        "name": "Organic Skincare Kit",
+        "category": "Beauty Products",
+        "price": 40,
+        "base_satisfaction": 75,
+        "tags": ["Beauty", "Skincare", "Organic"],
+        "synergy_items": ["Face Mask", "Moisturizer"]
+    },
+    {
+        "name": "Home Gym Set",
+        "category": "Health Products",
+        "price": 150,
+        "base_satisfaction": 95,
+        "tags": ["Health", "Fitness", "Gym"],
+        "synergy_items": ["Yoga Mat", "Dumbbells"]
+    }
+]

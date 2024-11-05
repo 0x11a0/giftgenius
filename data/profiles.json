@@ -1,0 +1,52 @@
+[
+    {
+        "profile_id": 1,
+        "name": "Alice Johnson",
+        "tags": ["Tech Enthusiast", "Gadget Lover", "Fitness Buff", "Music Lover"]
+    },
+    {
+        "profile_id": 2,
+        "name": "Brian Smith",
+        "tags": ["Pet Lover", "Home Decor Enthusiast", "Gardening Hobbyist", "Nature Lover"]
+    },
+    {
+        "profile_id": 3,
+        "name": "Catherine Brown",
+        "tags": ["Fashionista", "Luxury Seeker", "Jewelry Collector", "Beauty Enthusiast"]
+    },
+    {
+        "profile_id": 4,
+        "name": "Daniel Green",
+        "tags": ["Health Conscious", "Sports Fan", "Eco-Friendly", "Wellness Guru"]
+    },
+    {
+        "profile_id": 5,
+        "name": "Emma Wilson",
+        "tags": ["New Parent", "Family-Oriented", "Baby Care Enthusiast", "Educational Toy Seeker"]
+    },
+    {
+        "profile_id": 6,
+        "name": "Frank Davis",
+        "tags": ["Automotive Enthusiast", "DIY Hobbyist", "Tool Collector", "Home Improvement"]
+    },
+    {
+        "profile_id": 7,
+        "name": "Grace Lee",
+        "tags": ["Minimalist", "Modern Decor", "Furniture Enthusiast", "Comfort Seeker"]
+    },
+    {
+        "profile_id": 8,
+        "name": "Henry Martin",
+        "tags": ["Traveler", "Outdoor Adventurer", "Camping Fanatic", "Photography Enthusiast"]
+    },
+    {
+        "profile_id": 9,
+        "name": "Isabella Moore",
+        "tags": ["Beauty Enthusiast", "Organic Product Seeker", "Skincare Focused", "Self-Care Advocate"]
+    },
+    {
+        "profile_id": 10,
+        "name": "Jack White",
+        "tags": ["Music Lover", "Audio Enthusiast", "Live Music Fan", "Entertainment Buff"]
+    }
+]
